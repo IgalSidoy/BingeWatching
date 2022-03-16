@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xc8CCHmN4wObi0i1rNMO0+EYzu4+9KgOWgyCwsWmRTh3B6SHlz3eYEEUShqRXfClnJSwRKd1lXRszM3mOyPbRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igals\\Desktop\\Dev\\net\\binge-watching-master\\binge-watching-master\\src\\BingeWatching\\BingeWatching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igals\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
